@@ -4,7 +4,7 @@ Deep Neural Networks (DNNs) have become the de-facto standard in computer vision
 In this paper, we propose LightLayers: a method for reducing the number of trainable parameters in deep neural networks (DNN). The proposed LightLayers consists of LightDense and LightConv2D layer that are efficient as compared to regular Conv2D and Dense layer but uses less parameters. We resort to Matrix Factorization to reduce the complexity of the DNN models resulting into lightweight DNN models  that require less computational power, without much loss in the accuracy.  We have tested LightLayers on MNIST, Fashion MNIST, CIFAR 10, and CIFAR 100 datasets. Promising results are obtained for MNIST, Fashion MNIST, CIFAR-10 datasets whereas CIFAR 100 shows acceptable performance by using fewer parameters.  
 
 
-[LightLayers: Parameter Efficient Dense andConvolutional Layers for Image Classification][lightlayers.pdf]
+[LightLayers: Parameter Efficient Dense andConvolutional Layers for Image Classification] (lightlayers.pdf).
 
 ## Architecture
 <img src="lightmodel.png">
