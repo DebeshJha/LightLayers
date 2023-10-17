@@ -11,11 +11,11 @@ In this paper, we propose LightLayers: a method for reducing the number of train
 </p>
 
 <p align ="center">
-<img src="Img/Figure1">
+<img src="img/Figure1">
 </p>
 
 <p align ="center">
-<img src="Img/Figure2">
+<img src="img/Figure2">
 </p>
 
 ## Datasets:
@@ -29,11 +29,11 @@ The following datasets are used in this experiment:
 
  ## Results
  <p align ="center">
-<img src="Img/Table1">
+<img src="img/Table1">
 </p>
 
  <p align ="center">
-<img src="Img/Table2">
+<img src="img/Table2">
 </p>
 
 
