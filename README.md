@@ -11,7 +11,7 @@ In this paper, we propose LightLayers: a method for reducing the number of train
 </p>
 
 <p align ="center">
-<img src="img/Figure1">
+<img src= "Figure1">
 </p>
 
 <p align ="center">
