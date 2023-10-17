@@ -6,8 +6,9 @@ In this paper, we propose LightLayers: a method for reducing the number of train
 [LightLayers: Parameter Efficient Dense andConvolutional Layers for Image Classification](lightlayers.pdf).
 
 ## Architecture
+<p align ="center">
 <img src="lightmodel.png">
-
+</p>
 
 ## Datasets:
 The following datasets are used in this experiment:
