@@ -10,6 +10,14 @@ In this paper, we propose LightLayers: a method for reducing the number of train
 <img src="lightmodel.png">
 </p>
 
+<p align ="center">
+<img src="Img/Figure1">
+</p>
+
+<p align ="center">
+<img src="Img/Figure2">
+</p>
+
 ## Datasets:
 The following datasets are used in this experiment:
 <ol>
@@ -18,6 +26,15 @@ The following datasets are used in this experiment:
   <li>CIFAR-10 Database/li>
   <li>CIFAR-100 Database</li>
  </ol>
+
+ ## Results
+ <p align ="center">
+<img src="Img/Table1">
+</p>
+
+ <p align ="center">
+<img src="Img/Table2">
+</p>
 
 
 ## Citation
